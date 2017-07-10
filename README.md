@@ -28,13 +28,13 @@ You will have a faster, more agile, Gateway, with more capabiltiies.
 
 ### How To Try it.
 
-1. You must have the latest version of the API Tool kit: [Link to Toolkit Getting Started](http://link)
+1. You must have the latest version of the API Tool kit: [Link to Toolkit Getting Started](https://developer.ibm.com/apiconnect/getting-started/?cm_sp=developer-_-apic-dev-center-_-get-started)
 2. Get Docker running in your local environment
-3. In the command line: Pull down the Experimental API Gateway `text`
-4. Turn on "experimental mode" in APIC Toolkit `apic config:set datapower-api-gateway-experimental=true`
-5. Follow the rest of the API Tool Kit getting started [text](http://link)
 
-Check out our [Blog](http://link) and a [getting started video](https://link)
+4. Turn on "experimental mode" in APIC Toolkit `apic config:set datapower-api-gateway-experimental=true`
+5. Follow the rest of the API Tool Kit [gettings started](https://developer.ibm.com/apiconnect/getting-started/?cm_sp=developer-_-apic-dev-center-_-get-started).  Please note: the first time your start APIC after turning on the experimental gateway, it may take up to 10 minutes to download and start the gateway the FIRST time.  
+
+Check out our [Blog](https://developer.ibm.com/apiconnect/2017/06/30/see-future-apim-datapower-api-gateway-tech-preview/) and a [getting started video - coming soon](https://link)
 
 ![Image of Datapower Reboot](/images/API_Gateway_assembly_tab.png)
 
