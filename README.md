@@ -16,7 +16,6 @@ Welcome to the DataPower API Gateway experimental homepage. The purpose of this 
 
 You will have a faster, agile Gateway with even more capabiltiies. The full *Power* of **DataPower** will be available!
 
-![Image of Datapower Reboot](/images/API_gateway_stats.png)
 
 ## Getting Started
 
